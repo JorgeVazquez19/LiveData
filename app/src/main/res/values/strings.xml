@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiveDataExample</string>
+    <string name="txt_edad">Edad: </string>
+    <string name="work">Trabajo en casa?: </string>
+    <string name="grade">Vas a aprobar?: </string>
+    <string name="edad">Edad</string>
+    <string name="swt">Si / No</string>
+</resources>
